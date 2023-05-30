@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Lisa Johnson",
+    "department": 2
+  },
+  {
+    "id": 2,
+    "name": "David Lee",
+    "department": 1
+  },
+  {
+    "id": 3,
+    "name": "Sarah Smith",
+    "department": 1
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "department": 2
+  },
+  {
+    "id": 5,
+    "name": "Jessica Chen",
+    "department": 1
+  },
+  {
+    "id": 6,
+    "name": "Samantha Lee",
+    "department": 2
+  },
+  {
+    "id": 7,
+    "name": "John Doe",
+    "department": 1
+  },
+  {
+    "id": 8,
+    "name": "Daniel Kim",
+    "department": 2
+  },
+  {
+    "id": 9,
+    "name": "Michael Brown",
+    "department": 1
+  },
+  {
+    "id": 10,
+    "name": "Mark Wilson",
+    "department": 2
+  }
+]
